@@ -1,7 +1,7 @@
 # Player
 
-npm install ---> To install node module
-npm start   ---> To start the server
+## npm install ---> To install node module
+## npm start   ---> To start the server
 
 # Output
 
